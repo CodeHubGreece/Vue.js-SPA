@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "codehub_vuejs_express-executor",
+    "name": "codehub_vuejs_express",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "h21b912lm9",
+    "url": "https://h21b912lm9.execute-api.eu-west-1.amazonaws.com/latest"
+  }
+}
